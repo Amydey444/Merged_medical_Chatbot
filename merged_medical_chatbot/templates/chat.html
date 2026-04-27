@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical ProBot</title>
+    <link rel="stylesheet" href="/static/style.css?v=6">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="sidebar">
+        <div class="user-profile" id="userProfile" style="display: none;">
+            <div class="user-avatar" id="userAvatar">A</div>
+            <div class="user-name" id="userName">Amy</div>
+        </div>
+
+        <h2>🧠 History</h2>
+        <button type="button" onclick="newChat()">+ New Chat</button>
+        <button type="button" onclick="logout()">Logout</button>
+
+        <div id="history"></div>
+    </div>
+
+    <div class="chat-area">
+
+        <div class="top-panel">
+            <div class="header">
+                <h1>Welcome to Medical ProBot 🩺</h1>
+                <p>Upload your image and ask your medical query</p>
+            </div>
+
+            <div class="top-layout">
+                <div class="top-left">
+                    <div class="upload-box" onclick="openFilePicker()">
+                        <div class="upload-title">📤 Click to Upload Image</div>
+                        <div class="upload-subtitle">PNG, JPG, JPEG supported</div>
+                        <div id="fileName"></div>
+                        <input type="file" id="imageInput" accept="image/*" hidden onchange="previewImage(event)">
+                        <img id="preview" alt="Preview">
+                    </div>
+
+                    <div class="suggestions">
+                        <button type="button" onclick="fillQuestion('What is this skin infection?')">Skin infection?</button>
+                        <button type="button" onclick="fillQuestion('Is this rash serious?')">Rash serious?</button>
+                        <button type="button" onclick="fillQuestion('What treatment should I take?')">Treatment?</button>
+                        <button type="button" onclick="fillQuestion('Should I consult a doctor?')">Consult doctor?</button>
+                        <button type="button" onclick="fillQuestion('What do you observe in this image?')">Observations?</button>
+                        <button type="button" onclick="fillQuestion('What precautions should I take?')">Precautions?</button>
+                    </div>
+
+                    <div class="messages" id="messages"></div>
+
+                    <div class="input-area">
+                        <div class="input-row">
+                            <input type="text" id="query" placeholder="Ask your question...">
+                            
+                        </div>
+
+                        <textarea id="symptoms" placeholder="Symptoms (optional for image upload)"></textarea>
+
+                        <div class="helper-note">
+                            You can upload a new image or ask a follow-up question without uploading again.
+                        </div>
+
+                        <div class="ask-btn-wrapper">
+                            <button type="button" class="ask-ai-btn" onclick="sendQuery()">
+                                ✨ Ask AI Doctor
+                            </button>
+                        </div>
+
+                        <div class="disclaimer-box">
+                            ⚠️ This is AI-generated information and not a medical diagnosis. Consult a doctor for professional advice.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="medical-profile-panel">
+                    <div class="profile-card">
+                        <div class="profile-card-header">
+                            <h3>🩺 Medical Profile</h3>
+                            <div class="profile-info-box">
+                                Add your health details for better AI guidance
+                            </div>
+                        </div>
+
+                        <form id="medicalProfileForm" class="medical-profile-form">
+                            <div class="profile-grid">
+                                <input type="text" name="age" placeholder="Age">
+                                <input type="text" name="gender" placeholder="Gender">
+                                <input type="text" name="blood_group" placeholder="Blood Group">
+                                <input type="text" name="allergies" placeholder="Allergies">
+                            </div>
+
+                            <textarea name="diseases" placeholder="Existing Diseases"></textarea>
+                            <textarea name="medications" placeholder="Current Medications"></textarea>
+                            <input type="text" name="emergency_contact" placeholder="Emergency Contact">
+
+                            <button type="submit" class="save-profile-btn">Save Profile</button>
+                            <div id="profileMessage" class="profile-message"></div>
+
+                            <button type="button" id="loadKbBtn" class="load-kb-btn">Load Medical KB</button>
+                            <div id="kbMessage" class="profile-message"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+    const currentUsername = {{ username | tojson }};
+</script>
+<script src="/static/script.js?v=5"></script>
+</body>
+</html>

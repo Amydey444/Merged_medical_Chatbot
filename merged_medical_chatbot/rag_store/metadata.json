@@ -1,0 +1,2156 @@
+[
+  {
+    "doc_id": "3fcb76a0-4e13-4622-bbbe-6f43ad9b2eea",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "## 1. Key Visual Observations\n\nThe image shows a man with dark hair and a blue striped shirt. He is wearing black-framed glasses and has his right hand on his head. The key observations are:\n\n- The man's hair appears to have white, flaky patches, particularly visible on the center part of his scalp.\n- The flakes resemble dandruff or possibly seborrheic dermatitis.\n\n## 2. Possible Interpretation\n\nBased on the visual observations, the condition could be:\n- Dandruff: A common scalp condition charac",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "vector_row": 0
+  },
+  {
+    "doc_id": "3fcb76a0-4e13-4622-bbbe-6f43ad9b2eea",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "bservations, the condition could be:\n- Dandruff: A common scalp condition characterized by flaky skin.\n- Seborrheic dermatitis: A skin condition that can cause flaky patches and red skin.\n\n## 3. Short Safety Note\n\nIt is essential to consult a healthcare professional for an accurate diagnosis and appropriate treatment, as self-diagnosis may not be accurate.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "vector_row": 1
+  },
+  {
+    "doc_id": "411aba08-1dfc-4d7e-b4c6-02448035d55b",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "1. Key visual observations: \nThe image shows a man with dark hair and a blue striped shirt. He is touching his hair, which appears to have white flakes or scales, particularly along the center part of his scalp.\n\n2. Possible interpretation:\nThe presence of white flakes or scales on the scalp could be indicative of a skin condition such as dandruff or seborrheic dermatitis. However, without more information or a closer examination, it is uncertain.\n\n3. Short safety note:\nIt is essential to consul",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "vector_row": 2
+  },
+  {
+    "doc_id": "411aba08-1dfc-4d7e-b4c6-02448035d55b",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "r examination, it is uncertain.\n\n3. Short safety note:\nIt is essential to consult a healthcare professional for an accurate diagnosis and appropriate treatment. Self-diagnosis or treatment may lead to ineffective or potentially irritating treatments.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "vector_row": 3
+  },
+  {
+    "doc_id": "5d1c03df-86e4-4e89-a2be-7f5522b2a803",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "1. Key visual observations: \nThe image shows a man with dark hair and a blue shirt, looking down at his scalp. His right hand is on his head, and there appears to be white flakes or scales on his scalp, particularly along the center part of his hair.\n\n2. Possible interpretation: \nThe presence of white flakes or scales on the scalp could be indicative of a skin condition such as dandruff or seborrheic dermatitis. However, without further information or a more detailed examination, it is impossibl",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "vector_row": 4
+  },
+  {
+    "doc_id": "5d1c03df-86e4-4e89-a2be-7f5522b2a803",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ver, without further information or a more detailed examination, it is impossible to provide a definitive diagnosis.\n\n3. Short safety note: \nIf you are experiencing symptoms such as those shown in the image, it is recommended to consult a healthcare professional for proper evaluation and treatment. Self-diagnosis or treatment may lead to ineffective management or potential worsening of the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "vector_row": 5
+  },
+  {
+    "doc_id": "98e25d7e-9d2b-4e30-b052-3ce58b98aad6",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: The image shows a man with dark hair and a blue striped shirt. His hair appears to have a visible flaky substance, likely dandruff or another scalp condition, concentrated along the center part of his scalp. He is touching his hair with one hand.\n\n2. **Possible interpretation**: The presence of flakes in the hair, particularly along the scalp, coul",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:46:02.464082",
+    "vector_row": 6
+  },
+  {
+    "doc_id": "98e25d7e-9d2b-4e30-b052-3ce58b98aad6",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "tation**: The presence of flakes in the hair, particularly along the scalp, could indicate a scalp condition such as dandruff, seborrheic dermatitis, or another skin condition. However, a definitive diagnosis cannot be made solely based on this image.\n\n3. **Short safety note**: If you are experiencing symptoms like the ones shown, it's advisable to consult a healthcare professional or dermatologist for an accurate diagnosis and appropriate treatment. Self-treatment or ignoring the condition coul",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:46:02.464096",
+    "vector_row": 7
+  },
+  {
+    "doc_id": "98e25d7e-9d2b-4e30-b052-3ce58b98aad6",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "agnosis and appropriate treatment. Self-treatment or ignoring the condition could potentially worsen the symptoms or lead to further complications.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:46:02.464098",
+    "vector_row": 8
+  },
+  {
+    "doc_id": "7d9ee9c2-9d73-4140-b67d-b3a48019592f",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What is this skin infection?\nSymptoms: \nAnalysis: ## **1. Key Visual Observations**\n\nThe image shows a close-up of a person's cheek and jawline. The skin on the cheek displays multiple small, red, raised bumps. Some of these bumps appear to be inflamed, while a few have a slight pustule or pimple-like appearance. The affected area is localized primarily to the cheek, with no visible signs of infection or severe inflammation.\n\n## **2. Possible Interpretation**\n\nBased on the visual obser",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T05:49:41.139574",
+    "vector_row": 9
+  },
+  {
+    "doc_id": "7d9ee9c2-9d73-4140-b67d-b3a48019592f",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "vere inflammation.\n\n## **2. Possible Interpretation**\n\nBased on the visual observations, this skin condition could be acne. Acne often presents with red, inflamed bumps, pustules, or pimples, commonly found on the face, particularly in areas like the cheeks and jawline.\n\n## **3. Short Safety Note**\n\nIf this is indeed acne or another skin condition, avoid picking or squeezing the bumps, as this can lead to infection or scarring. Consult a dermatologist for an accurate diagnosis and appropriate tr",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T05:49:41.139601",
+    "vector_row": 10
+  },
+  {
+    "doc_id": "7d9ee9c2-9d73-4140-b67d-b3a48019592f",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "r scarring. Consult a dermatologist for an accurate diagnosis and appropriate treatment.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T05:49:41.139603",
+    "vector_row": 11
+  },
+  {
+    "doc_id": "d2acd089-33e1-44e5-bc85-269f6dc19c96",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: \nThe image shows a close-up of a person's face, focusing on the cheek and jawline area. There are multiple small, red bumps and pimples visible on the skin, which appear to be inflamed. The bumps vary in size and are concentrated in a specific area.\n\n2. **Possible interpretation**: \nThe visual observations suggest that the person may be experiencin",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:52:34.167367",
+    "vector_row": 12
+  },
+  {
+    "doc_id": "d2acd089-33e1-44e5-bc85-269f6dc19c96",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "pretation**: \nThe visual observations suggest that the person may be experiencing acne or a similar skin condition characterized by inflamed lesions. However, without further information or a medical professional's evaluation, it is uncertain to provide a definitive interpretation.\n\n3. **Short safety note**: \nIt is essential to consult a dermatologist or a healthcare professional for proper evaluation and treatment. Self-diagnosis or treatment may lead to further complications or ineffective man",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:52:34.167378",
+    "vector_row": 13
+  },
+  {
+    "doc_id": "d2acd089-33e1-44e5-bc85-269f6dc19c96",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Self-diagnosis or treatment may lead to further complications or ineffective management of the condition.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:52:34.167380",
+    "vector_row": 14
+  },
+  {
+    "doc_id": "0d158c43-25c8-423f-9496-2148942b5c8f",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: \nThe image shows a close-up of a person's face, specifically the side profile of their cheek and jawline. There are multiple red, inflamed bumps and pimples on the cheek, indicating some form of skin condition or acne.\n\n2. **Possible interpretation**: \nThe visual presentation suggests that the person may be experiencing acne or a similar skin condi",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:56:08.420482",
+    "vector_row": 15
+  },
+  {
+    "doc_id": "0d158c43-25c8-423f-9496-2148942b5c8f",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "tation suggests that the person may be experiencing acne or a similar skin condition characterized by inflamed lesions. However, without more information or a confirmed medical history, it's uncertain to provide a specific diagnosis.\n\n3. **Short safety note**: \nFor skin conditions like the one depicted, it's generally advised to avoid picking or squeezing the lesions to prevent infection or scarring. Consulting a dermatologist for proper evaluation and treatment is recommended.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:56:08.420493",
+    "vector_row": 16
+  },
+  {
+    "doc_id": "0d158c43-25c8-423f-9496-2148942b5c8f",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "matologist for proper evaluation and treatment is recommended.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T05:56:08.420494",
+    "vector_row": 17
+  },
+  {
+    "doc_id": "4197ca8b-3e6d-4746-834a-733e9cdc8ba8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key Visual Observations**: \n   - The individual has dark hair.\n   - There appears to be a visible flaky substance on the scalp, particularly along the part line.\n   - The person is wearing a blue and purple striped shirt and has black-framed glasses.\n\n2. **Possible Interpretation**:\n   - The presence of a flaky substance on the scalp could indicate a condition such as dandru",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T06:00:26.365557",
+    "vector_row": 18
+  },
+  {
+    "doc_id": "4197ca8b-3e6d-4746-834a-733e9cdc8ba8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ence of a flaky substance on the scalp could indicate a condition such as dandruff or seborrheic dermatitis. However, without further information or a closer examination, it's challenging to provide a definitive interpretation.\n\n3. **Short Safety Note**:\n   - If the condition is related to dandruff or another scalp issue, over-the-counter treatments are available, but it's essential to consult a healthcare professional for a proper diagnosis and treatment plan, especially if the condition persis",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T06:00:26.365567",
+    "vector_row": 19
+  },
+  {
+    "doc_id": "4197ca8b-3e6d-4746-834a-733e9cdc8ba8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "al for a proper diagnosis and treatment plan, especially if the condition persists or worsens.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T06:00:26.365569",
+    "vector_row": 20
+  },
+  {
+    "doc_id": "2a8db5da-6e97-4887-baf9-785750407761",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: The image shows a close-up of a person's cheek and jawline, with multiple red, inflamed bumps and pimples visible on the skin. The bumps vary in size and appear to be in different stages of inflammation.\n\n2. **Possible interpretation**: The visual appearance suggests acne, a common skin condition characterized by the occurrence of pimples, often ca",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T07:14:01.844823",
+    "vector_row": 21
+  },
+  {
+    "doc_id": "2a8db5da-6e97-4887-baf9-785750407761",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ne, a common skin condition characterized by the occurrence of pimples, often caused by blockages in hair follicles, bacteria, hormonal changes, or other factors.\n\n3. **Short safety note**: It is essential to consult a dermatologist for a proper diagnosis and treatment plan. Self-treatment or using unverified remedies can lead to further skin irritation, scarring, or prolonged healing time. A healthcare professional can assess the condition and recommend appropriate treatments, such as topical c",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T07:14:01.844832",
+    "vector_row": 22
+  },
+  {
+    "doc_id": "2a8db5da-6e97-4887-baf9-785750407761",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "can assess the condition and recommend appropriate treatments, such as topical creams, oral medications, or other therapies.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T07:14:01.844834",
+    "vector_row": 23
+  },
+  {
+    "doc_id": "4a8bac9a-2cb0-4b68-aa66-770e2a0c2caf",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Is this rash serious?\nSymptoms: \nAnalysis: 1. Key visual observations:\nThe image shows a man with dark hair and a blue shirt, looking down at his scalp. His scalp appears to have white, flaky patches, particularly along the center part of his hair.\n\n2. Possible interpretation:\nThe white, flaky patches on the scalp are suggestive of dandruff or seborrheic dermatitis, which are common conditions characterized by scalp irritation and flaking.\n\n3. Short safety note:\nIt is essential to cons",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-02T10:48:05.103238",
+    "vector_row": 24
+  },
+  {
+    "doc_id": "4a8bac9a-2cb0-4b68-aa66-770e2a0c2caf",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "by scalp irritation and flaking.\n\n3. Short safety note:\nIt is essential to consult a healthcare professional for an accurate diagnosis and appropriate treatment. While the condition appears to be mild, it could potentially be a symptom of an underlying issue or lead to hair loss if left untreated.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-02T10:48:05.103252",
+    "vector_row": 25
+  },
+  {
+    "doc_id": "c56d9ced-f6ab-40df-a649-db27f4d4a087",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Should I consult a doctor?\nSymptoms: \nAnalysis: 1. **Key Visual Observations**: \nThe image shows a close-up of a person's cheek and jawline. There are multiple red spots and bumps on the skin, some of which appear to be inflamed. The skin around these spots is also red and irritated.\n\n2. **Possible Interpretation**: \nThe visual observations suggest the presence of acne or a similar skin condition characterized by inflamed lesions. However, without further information or a medical histo",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-02T10:55:02.070443",
+    "vector_row": 26
+  },
+  {
+    "doc_id": "c56d9ced-f6ab-40df-a649-db27f4d4a087",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "zed by inflamed lesions. However, without further information or a medical history, it is not possible to provide a specific diagnosis.\n\n3. **Short Safety Note**: \nIf you are experiencing persistent or severe skin issues, it is advisable to consult a healthcare professional for proper evaluation and treatment. Self-diagnosis or treatment can lead to further complications or scarring.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-02T10:55:02.070453",
+    "vector_row": 27
+  },
+  {
+    "doc_id": "c2c65eef-8181-4567-ba88-34122e403dcc",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Should I consult a doctor?\nSymptoms: \nAnalysis: 1. **Key Visual Observations**: \nThe image shows a man with dark hair and a blue and red striped shirt. His right hand is on his head, and he appears to be looking down. There are visible white flakes on his hair and scalp.\n\n2. **Possible Interpretation**: \nThe presence of white flakes on the scalp could indicate a skin condition such as dandruff or seborrheic dermatitis. However, a definitive diagnosis cannot be made from the image alone",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-02T10:56:36.854542",
+    "vector_row": 28
+  },
+  {
+    "doc_id": "c2c65eef-8181-4567-ba88-34122e403dcc",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "dermatitis. However, a definitive diagnosis cannot be made from the image alone.\n\n3. **Short Safety Note**: \nIf you are experiencing persistent or severe symptoms such as itching, redness, or excessive flaking, it is advisable to consult a healthcare professional for proper evaluation and treatment.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-02T10:56:36.854553",
+    "vector_row": 29
+  },
+  {
+    "doc_id": "4d7aa248-1226-4958-ba8a-17eb27528d5c",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What is this skin infection?\nSymptoms: \nAnalysis: ## 1. Key Visual Observations\nThe image shows a skin lesion on a person's leg. \n\n- The lesion is large and has a distinctive ring-like appearance, with a clearer center and redder edges.\n- The lesion appears to have a raised border.\n- There are multiple lesions, with a smaller one near the larger one.\n- The background of the image is light green with white wavy lines.\n\n## 2. Possible Interpretation\nBased on the visual appearance of the",
+    "extra": {
+      "filename": "test4.webp",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T11:03:57.221987",
+    "vector_row": 30
+  },
+  {
+    "doc_id": "4d7aa248-1226-4958-ba8a-17eb27528d5c",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "avy lines.\n\n## 2. Possible Interpretation\nBased on the visual appearance of the lesion, it is possible that it could be a case of Lyme disease, which is caused by a tick bite and often presents with a characteristic \"bull's-eye\" rash. However, without further information or a confirmed medical history, it is not possible to provide a definitive diagnosis.\n\n## 3. Short Safety Note\nIf you suspect that you have a skin infection, it is essential to consult a healthcare professional for proper evalua",
+    "extra": {
+      "filename": "test4.webp",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T11:03:57.222002",
+    "vector_row": 31
+  },
+  {
+    "doc_id": "4d7aa248-1226-4958-ba8a-17eb27528d5c",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "nfection, it is essential to consult a healthcare professional for proper evaluation and treatment. Some skin infections can be serious and require prompt medical attention. Avoid touching or scratching the affected area excessively to prevent further irritation or infection.",
+    "extra": {
+      "filename": "test4.webp",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T11:03:57.222004",
+    "vector_row": 32
+  },
+  {
+    "doc_id": "397c7d78-134b-4d01-b83c-890e82720f11",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What is this skin infection?\nSymptoms: \nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue shirt, who appears to be scratching his scalp. There are visible flakes or scales on his hair and scalp.\n\n2. Possible interpretation: \nThe presence of flakes or scales on the scalp could be indicative of a skin condition such as dandruff or seborrheic dermatitis. However, without more information or a closer examination, it is difficult to provide a more specif",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T11:13:07.686280",
+    "vector_row": 33
+  },
+  {
+    "doc_id": "397c7d78-134b-4d01-b83c-890e82720f11",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "re information or a closer examination, it is difficult to provide a more specific interpretation.\n\n3. Short safety note: \nIt is essential to consult a healthcare professional for an accurate diagnosis and treatment plan if you are experiencing scalp issues. Self-diagnosis or treatment can lead to further irritation or complications.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What is this skin infection?"
+    },
+    "created_at": "2026-04-02T11:13:07.686299",
+    "vector_row": 34
+  },
+  {
+    "doc_id": "7818aee1-59dd-4a4f-a62b-7670f629eaa9",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: ## 1. Key Visual Observations\nThe image shows a person's arm with two distinct skin lesions. The larger lesion is oval-shaped and has a clear, ring-like pattern with a more intensely red border and a lighter center. A smaller, similar but less defined lesion is visible nearby.\n\n## 2. Possible Interpretation\nThe appearance of these lesions is suggestive of erythema migrans, commonly known as Lyme disease rash or \"bull's-eye\" rash. This",
+    "extra": {
+      "filename": "test4.webp",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T11:36:58.719746",
+    "vector_row": 35
+  },
+  {
+    "doc_id": "7818aee1-59dd-4a4f-a62b-7670f629eaa9",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "rythema migrans, commonly known as Lyme disease rash or \"bull's-eye\" rash. This condition is typically associated with Lyme disease, caused by the bacterium Borrelia burgdorferi and transmitted through the bite of infected black-legged ticks.\n\n## 3. Short Safety Note\nIf you suspect that you have been bitten by a tick and are experiencing a rash, it is crucial to consult a healthcare professional promptly. Early treatment with antibiotics is usually effective in treating Lyme disease. Avoid self-",
+    "extra": {
+      "filename": "test4.webp",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T11:36:58.719761",
+    "vector_row": 36
+  },
+  {
+    "doc_id": "7818aee1-59dd-4a4f-a62b-7670f629eaa9",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ment with antibiotics is usually effective in treating Lyme disease. Avoid self-diagnosis and do not delay seeking medical advice.",
+    "extra": {
+      "filename": "test4.webp",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-02T11:36:58.719763",
+    "vector_row": 37
+  },
+  {
+    "doc_id": "0bee0fe1-8907-4500-9718-341014d83fd6",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: The image shows a close-up of a person's cheek and jawline, with multiple red bumps and pimples visible on the skin. The bumps vary in size and appear to be inflamed.\n\n2. **Possible interpretation**: The visual presentation is consistent with acne, a common skin condition characterized by the occurrence of pimples, often caused by hormonal changes,",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T06:54:22.701987",
+    "vector_row": 38
+  },
+  {
+    "doc_id": "0bee0fe1-8907-4500-9718-341014d83fd6",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "on characterized by the occurrence of pimples, often caused by hormonal changes, stress, or genetics.\n\n3. **Short safety note**: Acne can sometimes be treated with over-the-counter (OTC) medications or topical treatments, but if the condition persists or worsens, it is advisable to consult a healthcare professional for proper evaluation and treatment to prevent potential scarring or skin damage.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T06:54:22.702010",
+    "vector_row": 39
+  },
+  {
+    "doc_id": "c6da8771-a27b-44f0-9a96-6df8d2eb6662",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "fever: \"A fever is a temporary increase in your body temperature. Severity: Mild to High. Treatment: Rest, stay hydrated, take over-the-counter pain relievers such as acetaminophen or ibuprofen. Seek medical attention if fever exceeds 103 F or lasts more than 3 days.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fever"
+    },
+    "created_at": "2026-04-06T06:57:45.132801",
+    "vector_row": 40
+  },
+  {
+    "doc_id": "7c094558-eb81-428a-8147-1fed19648cb9",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "cough: \"A cough is your body's way of responding when something irritates your throat or airways. Severity: Mild to Severe. Treatment: Stay hydrated, use a humidifier, try honey or cough drops for soothing. Seek help if accompanied by shortness of breath or blood.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "cough"
+    },
+    "created_at": "2026-04-06T06:57:45.353058",
+    "vector_row": 41
+  },
+  {
+    "doc_id": "0783f152-864b-467a-a95c-3a2d169fba3b",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "headache: \"A headache can cause pain in any region of the head. Severity: Mild to Severe. Treatment: Rest in a quiet, dark room, stay hydrated, take pain relievers. Get immediate help if it's sudden and severe, or accompanied by fever, stiff neck, or confusion.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "headache"
+    },
+    "created_at": "2026-04-06T06:57:45.407986",
+    "vector_row": 42
+  },
+  {
+    "doc_id": "065a51ca-b6af-4a13-81df-43545fb67242",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "rash: \"A skin rash is an area of irritated or swollen skin. Severity: Mild to Severe. Treatment: Use mild soap, avoid scratching, apply hydrocortisone cream. See a doctor if it spreads rapidly, is painful, or shows signs of infection.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "rash"
+    },
+    "created_at": "2026-04-06T06:57:45.459000",
+    "vector_row": 43
+  },
+  {
+    "doc_id": "fec8b4aa-2eb3-4559-93ff-216bd16aaec6",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "fatigue: \"Fatigue is a feeling of constant tiredness or weakness. Severity: Mild to Chronic. Treatment: Ensure adequate sleep, maintain a balanced diet, exercise regularly, manage stress. Consult a doctor if fatigue is persistent and unexplained.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fatigue"
+    },
+    "created_at": "2026-04-06T06:57:45.483205",
+    "vector_row": 44
+  },
+  {
+    "doc_id": "3d165f01-aed6-4403-b14c-6531e28fb1c1",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "pneumonia: \"Pneumonia is an infection that inflames the air sacs in one or both lungs. Symptoms: Cough with phlegm, fever, chills, difficulty breathing. Severity: Moderate to Critical. Treatment: Antibiotics/antivirals, cough medicine, fever reducers. Immediate medical attention is required.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "pneumonia"
+    },
+    "created_at": "2026-04-06T06:57:45.492462",
+    "vector_row": 45
+  },
+  {
+    "doc_id": "190ea13e-05b0-4e34-9f16-743b38ba3bf9",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "covid-19: \"COVID-19 is a respiratory disease caused by SARS-CoV-2. Symptoms: Fever, cough, loss of taste/smell, shortness of breath, fatigue. Severity: Mild to Critical. Treatment: Isolate, rest, stay hydrated, monitor oxygen levels. Seek emergency care for trouble breathing or chest pain.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "covid-19"
+    },
+    "created_at": "2026-04-06T06:57:45.518591",
+    "vector_row": 46
+  },
+  {
+    "doc_id": "30afe3e6-5702-40b7-a537-0f1052bdda8c",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "asthma: \"Asthma is a condition in which your airways narrow and swell. Symptoms: Shortness of breath, chest tightness, wheezing, coughing fits. Severity: Mild to Life-threatening. Treatment: Quick-relief inhalers (albuterol), long-term control meds (corticosteroids). Seek emergency care if a severe attack occurs.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "asthma"
+    },
+    "created_at": "2026-04-06T06:57:45.547168",
+    "vector_row": 47
+  },
+  {
+    "doc_id": "9b380815-f282-4dca-ac80-71ea815d90bf",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "migraine: \"A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. Symptoms: Nausea, vomiting, extreme sensitivity to light and sound. Severity: Moderate to Severe. Treatment: Rest in a dark quiet room, pain relievers, triptans. Consult a neurologist for chronic migraines.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "migraine"
+    },
+    "created_at": "2026-04-06T06:57:45.577882",
+    "vector_row": 48
+  },
+  {
+    "doc_id": "a21cb534-765d-4fba-bcb5-9b044449e834",
+    "username": "guest",
+    "source": "medical_kb",
+    "text": "strep throat: \"Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Symptoms: Sudden sore throat, pain when swallowing, fever, red and swollen tonsils. Severity: Moderate. Treatment: Antibiotics (prescribed by a doctor), rest, throat lozenges. Must consult a doctor to avoid complications.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "strep throat"
+    },
+    "created_at": "2026-04-06T06:57:45.604644",
+    "vector_row": 49
+  },
+  {
+    "doc_id": "c462325d-6005-43fa-93ab-e2fc8b3ec054",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue striped shirt. He is wearing glasses and has his hand on his head. There appears to be white flakes or dandruff on his scalp.\n\n2. Possible interpretation: \nThe white flakes on the man's scalp could be indicative of a scalp condition such as dandruff or seborrheic dermatitis.\n\n3. Short safety note: \nIt is essential to consult a healthcare professional for an ac",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T06:59:18.781430",
+    "vector_row": 50
+  },
+  {
+    "doc_id": "c462325d-6005-43fa-93ab-e2fc8b3ec054",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ort safety note: \nIt is essential to consult a healthcare professional for an accurate diagnosis and treatment plan. Self-diagnosis or treatment may lead to ineffective or potentially irritating treatments.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T06:59:18.781440",
+    "vector_row": 51
+  },
+  {
+    "doc_id": "30f26f65-00d7-4dbc-9261-b4da883189b0",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fever: \"A fever is a temporary increase in your body temperature. Severity: Mild to High. Treatment: Rest, stay hydrated, take over-the-counter pain relievers such as acetaminophen or ibuprofen. Seek medical attention if fever exceeds 103 F or lasts more than 3 days.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fever"
+    },
+    "created_at": "2026-04-06T09:57:49.553699",
+    "vector_row": 52
+  },
+  {
+    "doc_id": "8b037c69-0495-44e3-8cba-02b4489b59d4",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "cough: \"A cough is your body's way of responding when something irritates your throat or airways. Severity: Mild to Severe. Treatment: Stay hydrated, use a humidifier, try honey or cough drops for soothing. Seek help if accompanied by shortness of breath or blood.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "cough"
+    },
+    "created_at": "2026-04-06T09:57:50.078431",
+    "vector_row": 53
+  },
+  {
+    "doc_id": "5d6fe5c3-2245-4de4-a2af-a43f3ccdb642",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "headache: \"A headache can cause pain in any region of the head. Severity: Mild to Severe. Treatment: Rest in a quiet, dark room, stay hydrated, take pain relievers. Get immediate help if it's sudden and severe, or accompanied by fever, stiff neck, or confusion.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "headache"
+    },
+    "created_at": "2026-04-06T09:57:50.104381",
+    "vector_row": 54
+  },
+  {
+    "doc_id": "b0b4a018-5ed6-4267-9c2f-a53ded2a39a3",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "rash: \"A skin rash is an area of irritated or swollen skin. Severity: Mild to Severe. Treatment: Use mild soap, avoid scratching, apply hydrocortisone cream. See a doctor if it spreads rapidly, is painful, or shows signs of infection.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "rash"
+    },
+    "created_at": "2026-04-06T09:57:50.149450",
+    "vector_row": 55
+  },
+  {
+    "doc_id": "91922e01-410b-4430-9c87-9ee9b5e9f569",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fatigue: \"Fatigue is a feeling of constant tiredness or weakness. Severity: Mild to Chronic. Treatment: Ensure adequate sleep, maintain a balanced diet, exercise regularly, manage stress. Consult a doctor if fatigue is persistent and unexplained.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fatigue"
+    },
+    "created_at": "2026-04-06T09:57:50.174283",
+    "vector_row": 56
+  },
+  {
+    "doc_id": "1e1dc6df-d817-4e89-8e4f-4a1aceeae375",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "pneumonia: \"Pneumonia is an infection that inflames the air sacs in one or both lungs. Symptoms: Cough with phlegm, fever, chills, difficulty breathing. Severity: Moderate to Critical. Treatment: Antibiotics/antivirals, cough medicine, fever reducers. Immediate medical attention is required.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "pneumonia"
+    },
+    "created_at": "2026-04-06T09:57:50.187197",
+    "vector_row": 57
+  },
+  {
+    "doc_id": "904bb239-82a2-44dc-b409-208767abf487",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "covid-19: \"COVID-19 is a respiratory disease caused by SARS-CoV-2. Symptoms: Fever, cough, loss of taste/smell, shortness of breath, fatigue. Severity: Mild to Critical. Treatment: Isolate, rest, stay hydrated, monitor oxygen levels. Seek emergency care for trouble breathing or chest pain.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "covid-19"
+    },
+    "created_at": "2026-04-06T09:57:50.215065",
+    "vector_row": 58
+  },
+  {
+    "doc_id": "92883744-34d5-4428-a5c9-3b04c8bdf3ab",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "asthma: \"Asthma is a condition in which your airways narrow and swell. Symptoms: Shortness of breath, chest tightness, wheezing, coughing fits. Severity: Mild to Life-threatening. Treatment: Quick-relief inhalers (albuterol), long-term control meds (corticosteroids). Seek emergency care if a severe attack occurs.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "asthma"
+    },
+    "created_at": "2026-04-06T09:57:50.240525",
+    "vector_row": 59
+  },
+  {
+    "doc_id": "7b5805d6-6c45-4b23-a590-7659424f12c4",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "migraine: \"A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. Symptoms: Nausea, vomiting, extreme sensitivity to light and sound. Severity: Moderate to Severe. Treatment: Rest in a dark quiet room, pain relievers, triptans. Consult a neurologist for chronic migraines.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "migraine"
+    },
+    "created_at": "2026-04-06T09:57:50.264301",
+    "vector_row": 60
+  },
+  {
+    "doc_id": "d5e4dde5-1d01-4313-8624-dc54170db031",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "strep throat: \"Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Symptoms: Sudden sore throat, pain when swallowing, fever, red and swollen tonsils. Severity: Moderate. Treatment: Antibiotics (prescribed by a doctor), rest, throat lozenges. Must consult a doctor to avoid complications.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "strep throat"
+    },
+    "created_at": "2026-04-06T09:57:50.370647",
+    "vector_row": 61
+  },
+  {
+    "doc_id": "46727046-5fa3-41d9-8c9b-782e69d4e344",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: Based on the provided image, here are my observations:\n\n1. **Key Visual Observations**: \n    - The image shows a close-up of a person's head, focusing on their scalp.\n    - The individual has dark hair and is wearing a blue and red striped shirt and blue-framed glasses.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T09:58:26.942665",
+    "vector_row": 62
+  },
+  {
+    "doc_id": "46727046-5fa3-41d9-8c9b-782e69d4e344",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "dark hair and is wearing a blue and red striped shirt and blue-framed glasses.\n    - There is a visible accumulation of white, flaky material on the scalp, particularly along the center part of the hair.\n\n2. **Possible Interpretation**:\n    - The white, flaky material on the scalp could be indicative of dandruff or another scalp condition such as seborrheic dermatitis.\n\n3. **Short Safety Note**:\n    - The image does not provide any immediate safety concerns, but it could be a sign of an underly",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T09:58:26.942674",
+    "vector_row": 63
+  },
+  {
+    "doc_id": "46727046-5fa3-41d9-8c9b-782e69d4e344",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "not provide any immediate safety concerns, but it could be a sign of an underlying condition that may require medical attention if it persists or worsens.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T09:58:26.942675",
+    "vector_row": 64
+  },
+  {
+    "doc_id": "3b5e9203-e827-4b9d-a8fb-3e29020c1cd1",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: 1. Key visual observations:\nThe image shows a close-up of a woman's face, specifically her cheek and jawline area. There are multiple red, inflamed bumps and pimples on her cheek, which appear to be acne. The bumps vary in size and are clustered together.\n\n2. Possible in",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:01:13.572782",
+    "vector_row": 65
+  },
+  {
+    "doc_id": "3b5e9203-e827-4b9d-a8fb-3e29020c1cd1",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "r to be acne. The bumps vary in size and are clustered together.\n\n2. Possible interpretation:\nBased on the visual observation, it is possible that the woman has acne, which could be caused by various factors such as hormonal changes, stress, or skin care routine. However, without further information or medical history, it is difficult to determine the exact cause or severity of the condition.\n\n3. Short safety note:\nIt is essential to note that the image does not provide any personal identifiable",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:01:13.572792",
+    "vector_row": 66
+  },
+  {
+    "doc_id": "3b5e9203-e827-4b9d-a8fb-3e29020c1cd1",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "t is essential to note that the image does not provide any personal identifiable information, but it does mention that the woman is taking biotin tablets. Biotin can sometimes cause skin issues, including acne, in some individuals. However, this information should not be used to make any medical conclusions without consulting a healthcare professional.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:01:13.572793",
+    "vector_row": 67
+  },
+  {
+    "doc_id": "8b9da47b-bd3b-4771-b329-9c2bcdcdbfcb",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: Based on the provided image, here are my observations:\n\n1. **Key Visual Observations**: \nThe image shows a close-up of a woman's face, specifically her cheek and jawline area. There are multiple red, inflamed bumps and pimples on her cheek, indicating some form of skin i",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:07:47.315105",
+    "vector_row": 68
+  },
+  {
+    "doc_id": "8b9da47b-bd3b-4771-b329-9c2bcdcdbfcb",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "ple red, inflamed bumps and pimples on her cheek, indicating some form of skin issue, likely acne. The bumps vary in size and are clustered together.\n\n2. **Possible Interpretation**:\nThe presence of multiple red, inflamed bumps and pimples suggests that the woman may be experiencing an acne flare-up. However, without more information about her medical history, skincare routine, or other symptoms, it's difficult to provide a more specific interpretation.\n\n3. **Short Safety Note**:\nIt's essential",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:07:47.315116",
+    "vector_row": 69
+  },
+  {
+    "doc_id": "8b9da47b-bd3b-4771-b329-9c2bcdcdbfcb",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "ovide a more specific interpretation.\n\n3. **Short Safety Note**:\nIt's essential to note that skin conditions can be sensitive and may require professional evaluation for accurate diagnosis and treatment. If the woman is experiencing discomfort, pain, or emotional distress due to her skin condition, she should consult a dermatologist for personalized advice and care. The fact that she is taking biotin tablets may be relevant, as biotin can sometimes cause skin issues in certain individuals, but t",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:07:47.315117",
+    "vector_row": 70
+  },
+  {
+    "doc_id": "8b9da47b-bd3b-4771-b329-9c2bcdcdbfcb",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "elevant, as biotin can sometimes cause skin issues in certain individuals, but this would need to be evaluated in the context of her overall health and medical profile.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:07:47.315118",
+    "vector_row": 71
+  },
+  {
+    "doc_id": "9db6e561-ef96-4248-92b1-b28034263c3d",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fever: \"A fever is a temporary increase in your body temperature. Severity: Mild to High. Treatment: Rest, stay hydrated, take over-the-counter pain relievers such as acetaminophen or ibuprofen. Seek medical attention if fever exceeds 103 F or lasts more than 3 days.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fever"
+    },
+    "created_at": "2026-04-06T10:08:11.653870",
+    "vector_row": 72
+  },
+  {
+    "doc_id": "6e900e30-3e0c-4648-8253-9e697ba4c0ed",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "cough: \"A cough is your body's way of responding when something irritates your throat or airways. Severity: Mild to Severe. Treatment: Stay hydrated, use a humidifier, try honey or cough drops for soothing. Seek help if accompanied by shortness of breath or blood.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "cough"
+    },
+    "created_at": "2026-04-06T10:08:11.682217",
+    "vector_row": 73
+  },
+  {
+    "doc_id": "b010b575-35c5-425f-a279-97502a37057c",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "headache: \"A headache can cause pain in any region of the head. Severity: Mild to Severe. Treatment: Rest in a quiet, dark room, stay hydrated, take pain relievers. Get immediate help if it's sudden and severe, or accompanied by fever, stiff neck, or confusion.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "headache"
+    },
+    "created_at": "2026-04-06T10:08:11.705341",
+    "vector_row": 74
+  },
+  {
+    "doc_id": "0496de40-a347-4b9d-aabb-985d98b514ce",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "rash: \"A skin rash is an area of irritated or swollen skin. Severity: Mild to Severe. Treatment: Use mild soap, avoid scratching, apply hydrocortisone cream. See a doctor if it spreads rapidly, is painful, or shows signs of infection.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "rash"
+    },
+    "created_at": "2026-04-06T10:08:11.728621",
+    "vector_row": 75
+  },
+  {
+    "doc_id": "62db8916-029b-48ee-b65c-92fe486d216a",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fatigue: \"Fatigue is a feeling of constant tiredness or weakness. Severity: Mild to Chronic. Treatment: Ensure adequate sleep, maintain a balanced diet, exercise regularly, manage stress. Consult a doctor if fatigue is persistent and unexplained.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fatigue"
+    },
+    "created_at": "2026-04-06T10:08:11.750923",
+    "vector_row": 76
+  },
+  {
+    "doc_id": "cdb9f196-84c4-4dd1-9c00-165d1916a13d",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "pneumonia: \"Pneumonia is an infection that inflames the air sacs in one or both lungs. Symptoms: Cough with phlegm, fever, chills, difficulty breathing. Severity: Moderate to Critical. Treatment: Antibiotics/antivirals, cough medicine, fever reducers. Immediate medical attention is required.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "pneumonia"
+    },
+    "created_at": "2026-04-06T10:08:11.760641",
+    "vector_row": 77
+  },
+  {
+    "doc_id": "8264c84b-b5c0-4fe7-bff5-508402990a3b",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "covid-19: \"COVID-19 is a respiratory disease caused by SARS-CoV-2. Symptoms: Fever, cough, loss of taste/smell, shortness of breath, fatigue. Severity: Mild to Critical. Treatment: Isolate, rest, stay hydrated, monitor oxygen levels. Seek emergency care for trouble breathing or chest pain.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "covid-19"
+    },
+    "created_at": "2026-04-06T10:08:11.783757",
+    "vector_row": 78
+  },
+  {
+    "doc_id": "f02e0fcc-3464-429f-8a6f-0033287d4d46",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "asthma: \"Asthma is a condition in which your airways narrow and swell. Symptoms: Shortness of breath, chest tightness, wheezing, coughing fits. Severity: Mild to Life-threatening. Treatment: Quick-relief inhalers (albuterol), long-term control meds (corticosteroids). Seek emergency care if a severe attack occurs.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "asthma"
+    },
+    "created_at": "2026-04-06T10:08:11.807079",
+    "vector_row": 79
+  },
+  {
+    "doc_id": "31cb3524-daff-4401-9b34-c50df8428741",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "migraine: \"A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. Symptoms: Nausea, vomiting, extreme sensitivity to light and sound. Severity: Moderate to Severe. Treatment: Rest in a dark quiet room, pain relievers, triptans. Consult a neurologist for chronic migraines.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "migraine"
+    },
+    "created_at": "2026-04-06T10:08:11.830874",
+    "vector_row": 80
+  },
+  {
+    "doc_id": "3c1b71f5-b9f4-4172-ae45-22d08786816c",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "strep throat: \"Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Symptoms: Sudden sore throat, pain when swallowing, fever, red and swollen tonsils. Severity: Moderate. Treatment: Antibiotics (prescribed by a doctor), rest, throat lozenges. Must consult a doctor to avoid complications.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "strep throat"
+    },
+    "created_at": "2026-04-06T10:08:11.853892",
+    "vector_row": 81
+  },
+  {
+    "doc_id": "b1833808-b261-43f8-a814-48a0e417eb7f",
+    "username": "amydey",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: Not provided\nGender: Not provided\nBlood Group: Not provided\nAllergies: Not provided\nExisting Diseases: Not provided\nCurrent Medications: Not provided\nEmergency Contact: Not provided\nAnalysis: 1. Key visual observations:\nThe image shows a close-up of a person's cheek and jawline. There are multiple small, red bumps and pimples on the skin, primarily concentrated on the cheek. The bumps vary in size and some appear to be",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:08:51.335831",
+    "vector_row": 82
+  },
+  {
+    "doc_id": "b1833808-b261-43f8-a814-48a0e417eb7f",
+    "username": "amydey",
+    "source": "image_analysis",
+    "text": "rimarily concentrated on the cheek. The bumps vary in size and some appear to be inflamed. The skin around the bumps is also red and inflamed. The person has fair skin and is wearing a white tank top.\n\n2. Possible interpretation:\nThe image appears to show a case of acne, characterized by the presence of multiple red bumps and pimples on the cheek and jawline. However, without more information about the person's medical history or symptoms, it is not possible to provide a definitive diagnosis.\n\n3",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:08:51.335839",
+    "vector_row": 83
+  },
+  {
+    "doc_id": "b1833808-b261-43f8-a814-48a0e417eb7f",
+    "username": "amydey",
+    "source": "image_analysis",
+    "text": "al history or symptoms, it is not possible to provide a definitive diagnosis.\n\n3. Short safety note:\nIf you or someone you know is experiencing similar skin issues, it is recommended to consult a dermatologist for proper evaluation and treatment. Self-diagnosis or treatment can lead to further complications, such as scarring or infection.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:08:51.335840",
+    "vector_row": 84
+  },
+  {
+    "doc_id": "dbc30b68-76a2-485a-bac4-706eafd4d4d8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Should I consult a doctor?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a close-up of a person's cheek and jawline, with multiple red bumps and pimples visible on the skin. The bumps vary in size and appear to be inflamed.\n\n2. Possible interpretation: \nThe visual observations suggest that the person may have acne or a similar skin condition characterized by inflamed bumps and pimples.\n\n3. Short safety note: \nIt is recommended that",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-06T10:09:31.922477",
+    "vector_row": 85
+  },
+  {
+    "doc_id": "dbc30b68-76a2-485a-bac4-706eafd4d4d8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ed by inflamed bumps and pimples.\n\n3. Short safety note: \nIt is recommended that the person consult a doctor or dermatologist to determine the cause of the skin condition and receive proper treatment. Self-diagnosis or treatment may not be effective and could potentially lead to further skin problems.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-06T10:09:31.922489",
+    "vector_row": 86
+  },
+  {
+    "doc_id": "7cec278a-3946-4156-87b1-2fa60ef3ac15",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: Based on the provided image, here are my observations:\n\n1. **Key Visual Observations**: The image shows a close-up of a man's head, focusing on his hair and scalp. The man has dark hair and is wearing a blue and purple striped shirt. His right hand is raised to his head,",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:10:58.163162",
+    "vector_row": 87
+  },
+  {
+    "doc_id": "7cec278a-3946-4156-87b1-2fa60ef3ac15",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "s wearing a blue and purple striped shirt. His right hand is raised to his head, with his fingers spread through his hair. There appears to be a visible flaky substance on his scalp, particularly along the center part of his hair.\n\n2. **Possible Interpretation**: The presence of a flaky substance on the scalp could indicate a condition such as dandruff or seborrheic dermatitis. However, without more information or a clearer view of the condition, it's challenging to provide a more specific inter",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:10:58.163169",
+    "vector_row": 88
+  },
+  {
+    "doc_id": "7cec278a-3946-4156-87b1-2fa60ef3ac15",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "clearer view of the condition, it's challenging to provide a more specific interpretation.\n\n3. **Short Safety Note**: It's essential to note that the image does not appear to relate to the provided medical profile, which belongs to a 22-year-old female. The image seems to show a male individual. If this image is intended for medical evaluation, ensure that it is relevant to the patient's case and that proper patient consent and data protection protocols are followed.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:10:58.163170",
+    "vector_row": 89
+  },
+  {
+    "doc_id": "7cec278a-3946-4156-87b1-2fa60ef3ac15",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "consent and data protection protocols are followed.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:10:58.163170",
+    "vector_row": 90
+  },
+  {
+    "doc_id": "1270300e-75e6-40ba-840d-eecb88593381",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fever: \"A fever is a temporary increase in your body temperature. Severity: Mild to High. Treatment: Rest, stay hydrated, take over-the-counter pain relievers such as acetaminophen or ibuprofen. Seek medical attention if fever exceeds 103 F or lasts more than 3 days.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fever"
+    },
+    "created_at": "2026-04-06T10:11:31.395548",
+    "vector_row": 91
+  },
+  {
+    "doc_id": "d3418c29-2cd7-4102-837a-a7f2a60a15d1",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "cough: \"A cough is your body's way of responding when something irritates your throat or airways. Severity: Mild to Severe. Treatment: Stay hydrated, use a humidifier, try honey or cough drops for soothing. Seek help if accompanied by shortness of breath or blood.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "cough"
+    },
+    "created_at": "2026-04-06T10:11:31.426021",
+    "vector_row": 92
+  },
+  {
+    "doc_id": "f4235429-00d8-4c54-bf5f-a9131afac38f",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "headache: \"A headache can cause pain in any region of the head. Severity: Mild to Severe. Treatment: Rest in a quiet, dark room, stay hydrated, take pain relievers. Get immediate help if it's sudden and severe, or accompanied by fever, stiff neck, or confusion.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "headache"
+    },
+    "created_at": "2026-04-06T10:11:31.452690",
+    "vector_row": 93
+  },
+  {
+    "doc_id": "5e43bd7f-de74-434d-a634-3cd305283684",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "rash: \"A skin rash is an area of irritated or swollen skin. Severity: Mild to Severe. Treatment: Use mild soap, avoid scratching, apply hydrocortisone cream. See a doctor if it spreads rapidly, is painful, or shows signs of infection.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "rash"
+    },
+    "created_at": "2026-04-06T10:11:31.476684",
+    "vector_row": 94
+  },
+  {
+    "doc_id": "c7ee5ba8-608c-412a-a9e4-4cbfa3fce0a4",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fatigue: \"Fatigue is a feeling of constant tiredness or weakness. Severity: Mild to Chronic. Treatment: Ensure adequate sleep, maintain a balanced diet, exercise regularly, manage stress. Consult a doctor if fatigue is persistent and unexplained.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fatigue"
+    },
+    "created_at": "2026-04-06T10:11:31.499892",
+    "vector_row": 95
+  },
+  {
+    "doc_id": "078350de-ca15-4adb-95ad-e44806fb03ad",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "pneumonia: \"Pneumonia is an infection that inflames the air sacs in one or both lungs. Symptoms: Cough with phlegm, fever, chills, difficulty breathing. Severity: Moderate to Critical. Treatment: Antibiotics/antivirals, cough medicine, fever reducers. Immediate medical attention is required.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "pneumonia"
+    },
+    "created_at": "2026-04-06T10:11:31.510354",
+    "vector_row": 96
+  },
+  {
+    "doc_id": "71a3e433-b18e-4782-b67b-b7917c608cb8",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "covid-19: \"COVID-19 is a respiratory disease caused by SARS-CoV-2. Symptoms: Fever, cough, loss of taste/smell, shortness of breath, fatigue. Severity: Mild to Critical. Treatment: Isolate, rest, stay hydrated, monitor oxygen levels. Seek emergency care for trouble breathing or chest pain.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "covid-19"
+    },
+    "created_at": "2026-04-06T10:11:31.534774",
+    "vector_row": 97
+  },
+  {
+    "doc_id": "ba93caf0-f685-4ddc-bcc1-578f5a0f6332",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "asthma: \"Asthma is a condition in which your airways narrow and swell. Symptoms: Shortness of breath, chest tightness, wheezing, coughing fits. Severity: Mild to Life-threatening. Treatment: Quick-relief inhalers (albuterol), long-term control meds (corticosteroids). Seek emergency care if a severe attack occurs.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "asthma"
+    },
+    "created_at": "2026-04-06T10:11:31.558585",
+    "vector_row": 98
+  },
+  {
+    "doc_id": "4eb0890e-45fc-4f19-84dd-88608505bbff",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "migraine: \"A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. Symptoms: Nausea, vomiting, extreme sensitivity to light and sound. Severity: Moderate to Severe. Treatment: Rest in a dark quiet room, pain relievers, triptans. Consult a neurologist for chronic migraines.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "migraine"
+    },
+    "created_at": "2026-04-06T10:11:31.582240",
+    "vector_row": 99
+  },
+  {
+    "doc_id": "612c4a8a-1eb9-4da4-a298-40593071a590",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "strep throat: \"Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Symptoms: Sudden sore throat, pain when swallowing, fever, red and swollen tonsils. Severity: Moderate. Treatment: Antibiotics (prescribed by a doctor), rest, throat lozenges. Must consult a doctor to avoid complications.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "strep throat"
+    },
+    "created_at": "2026-04-06T10:11:31.605835",
+    "vector_row": 100
+  },
+  {
+    "doc_id": "f25aad5c-96a5-4ada-8739-36f001b5fc2e",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: I'm here to help with the information provided, but I must clarify that the image uploaded appears to be of a male individual, not a female, and does not directly relate to the provided medical profile of a 22-year-old female.\n\n### 1. Key Visual Observations\n- The image shows",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:41.780301",
+    "vector_row": 101
+  },
+  {
+    "doc_id": "f25aad5c-96a5-4ada-8739-36f001b5fc2e",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "ofile of a 22-year-old female.\n\n### 1. Key Visual Observations\n- The image shows a close-up of a person's head, focusing on their scalp.\n- The individual in the image appears to have flakes on their scalp, which could be indicative of a scalp condition.\n\n### 2. Possible Interpretation\n- The flakes observed on the scalp could suggest a condition such as dandruff or seborrheic dermatitis. However, without more information or a direct visual of the patient's (a 22-year-old female) condition, it's c",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:41.780308",
+    "vector_row": 102
+  },
+  {
+    "doc_id": "f25aad5c-96a5-4ada-8739-36f001b5fc2e",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "ion or a direct visual of the patient's (a 22-year-old female) condition, it's challenging to provide a precise interpretation.\n\n### 3. Short Safety Note\n- If the symptoms you're experiencing match what's visually observed (scalp flakes), over-the-counter shampoos or treatments might be available. However, it's crucial to consult a healthcare professional for personalized advice, especially if you're taking biotin tablets or have existing health conditions.\n\nGiven the discrepancy between the pro",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:41.780309",
+    "vector_row": 103
+  },
+  {
+    "doc_id": "f25aad5c-96a5-4ada-8739-36f001b5fc2e",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "blets or have existing health conditions.\n\nGiven the discrepancy between the provided medical profile and the image, and without specific symptoms described for the 22-year-old female, I recommend consulting a healthcare professional for accurate diagnosis and treatment recommendations tailored to her profile.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:41.780310",
+    "vector_row": 104
+  },
+  {
+    "doc_id": "c08c35c8-0515-46b7-806c-be72332a7f12",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: I'm here to help, but I need to clarify that the provided image does not match the patient's profile you initially mentioned, as the image appears to be of a male. However, I will proceed with the information given and provide a general response based on the image.\n\n1. **Key",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:49.247011",
+    "vector_row": 105
+  },
+  {
+    "doc_id": "c08c35c8-0515-46b7-806c-be72332a7f12",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "information given and provide a general response based on the image.\n\n1. **Key visual observations**: The image shows a person with dark hair and a blue-striped shirt, who appears to be scratching their scalp. There are visible flakes on the scalp, which could indicate a scalp condition.\n\n2. **Possible interpretation**: The presence of flakes on the scalp could suggest a condition such as dandruff or seborrheic dermatitis. However, without more information or a clearer view of the scalp, it's d",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:49.247017",
+    "vector_row": 106
+  },
+  {
+    "doc_id": "c08c35c8-0515-46b7-806c-be72332a7f12",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "atitis. However, without more information or a clearer view of the scalp, it's difficult to provide a precise interpretation.\n\n3. **Short safety note**: If you are experiencing scalp issues, it's advisable to consult a healthcare professional or a dermatologist for an accurate diagnosis and appropriate treatment. Self-diagnosis or treatment without professional advice can lead to complications or worsening of the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:49.247018",
+    "vector_row": 107
+  },
+  {
+    "doc_id": "c08c35c8-0515-46b7-806c-be72332a7f12",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "dition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-06T10:11:49.247019",
+    "vector_row": 108
+  },
+  {
+    "doc_id": "d05d510f-3e39-4928-a836-a37317c71de6",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: 1. Key Visual Observations: \n- The image shows a man with dark hair and a blue shirt with red stripes.\n- He is wearing black-framed glasses.\n- His right hand is on his head, and his left hand is not visible.\n- There appears to be visible white flakes or dandruff on his s",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:17:16.340091",
+    "vector_row": 109
+  },
+  {
+    "doc_id": "d05d510f-3e39-4928-a836-a37317c71de6",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "is not visible.\n- There appears to be visible white flakes or dandruff on his scalp.\n\n2. Possible Interpretation:\n- The white flakes on the scalp could indicate a common condition known as dandruff or seborrheic dermatitis.\n\n3. Short Safety Note:\n- The image does not provide any immediate safety concerns but the condition shown could potentially be a sign of an underlying scalp issue that may require medical attention if it persists or worsens.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:17:16.340103",
+    "vector_row": 110
+  },
+  {
+    "doc_id": "d05d510f-3e39-4928-a836-a37317c71de6",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "on if it persists or worsens.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:17:16.340104",
+    "vector_row": 111
+  },
+  {
+    "doc_id": "86c946a1-027c-4091-b31d-4e10e658ad5a",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fever: \"A fever is a temporary increase in your body temperature. Severity: Mild to High. Treatment: Rest, stay hydrated, take over-the-counter pain relievers such as acetaminophen or ibuprofen. Seek medical attention if fever exceeds 103 F or lasts more than 3 days.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fever"
+    },
+    "created_at": "2026-04-06T10:21:52.453579",
+    "vector_row": 112
+  },
+  {
+    "doc_id": "2f21e5a7-9aa8-48a6-a5bb-d246c28c6d27",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "cough: \"A cough is your body's way of responding when something irritates your throat or airways. Severity: Mild to Severe. Treatment: Stay hydrated, use a humidifier, try honey or cough drops for soothing. Seek help if accompanied by shortness of breath or blood.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "cough"
+    },
+    "created_at": "2026-04-06T10:21:52.484650",
+    "vector_row": 113
+  },
+  {
+    "doc_id": "230a6e06-7d8d-4fcf-a621-e7a6f2af8710",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "headache: \"A headache can cause pain in any region of the head. Severity: Mild to Severe. Treatment: Rest in a quiet, dark room, stay hydrated, take pain relievers. Get immediate help if it's sudden and severe, or accompanied by fever, stiff neck, or confusion.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "headache"
+    },
+    "created_at": "2026-04-06T10:21:52.506314",
+    "vector_row": 114
+  },
+  {
+    "doc_id": "b1cc0841-817b-462f-a928-50e3e9efe8fa",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "rash: \"A skin rash is an area of irritated or swollen skin. Severity: Mild to Severe. Treatment: Use mild soap, avoid scratching, apply hydrocortisone cream. See a doctor if it spreads rapidly, is painful, or shows signs of infection.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "rash"
+    },
+    "created_at": "2026-04-06T10:21:52.529593",
+    "vector_row": 115
+  },
+  {
+    "doc_id": "3d1bd46e-e47c-4e27-8155-353ab2112ecb",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "fatigue: \"Fatigue is a feeling of constant tiredness or weakness. Severity: Mild to Chronic. Treatment: Ensure adequate sleep, maintain a balanced diet, exercise regularly, manage stress. Consult a doctor if fatigue is persistent and unexplained.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "fatigue"
+    },
+    "created_at": "2026-04-06T10:21:52.552467",
+    "vector_row": 116
+  },
+  {
+    "doc_id": "57d07b9a-71ad-4699-93be-f3e558c401ca",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "pneumonia: \"Pneumonia is an infection that inflames the air sacs in one or both lungs. Symptoms: Cough with phlegm, fever, chills, difficulty breathing. Severity: Moderate to Critical. Treatment: Antibiotics/antivirals, cough medicine, fever reducers. Immediate medical attention is required.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "pneumonia"
+    },
+    "created_at": "2026-04-06T10:21:52.562975",
+    "vector_row": 117
+  },
+  {
+    "doc_id": "69f1bb27-df43-4fb1-be42-ef083fd7bbc0",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "covid-19: \"COVID-19 is a respiratory disease caused by SARS-CoV-2. Symptoms: Fever, cough, loss of taste/smell, shortness of breath, fatigue. Severity: Mild to Critical. Treatment: Isolate, rest, stay hydrated, monitor oxygen levels. Seek emergency care for trouble breathing or chest pain.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "covid-19"
+    },
+    "created_at": "2026-04-06T10:21:52.589856",
+    "vector_row": 118
+  },
+  {
+    "doc_id": "d25fd86e-0693-43d8-9ee2-11b8e1bcc6d4",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "asthma: \"Asthma is a condition in which your airways narrow and swell. Symptoms: Shortness of breath, chest tightness, wheezing, coughing fits. Severity: Mild to Life-threatening. Treatment: Quick-relief inhalers (albuterol), long-term control meds (corticosteroids). Seek emergency care if a severe attack occurs.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "asthma"
+    },
+    "created_at": "2026-04-06T10:21:52.617149",
+    "vector_row": 119
+  },
+  {
+    "doc_id": "2c82ca43-8090-42f2-b28a-596137af9163",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "migraine: \"A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. Symptoms: Nausea, vomiting, extreme sensitivity to light and sound. Severity: Moderate to Severe. Treatment: Rest in a dark quiet room, pain relievers, triptans. Consult a neurologist for chronic migraines.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "migraine"
+    },
+    "created_at": "2026-04-06T10:21:52.636673",
+    "vector_row": 120
+  },
+  {
+    "doc_id": "6e9a96f4-8560-45f5-901c-67c8b1c51bde",
+    "username": "amydey444@gmail.com",
+    "source": "medical_kb",
+    "text": "strep throat: \"Strep throat is a bacterial infection that can make your throat feel sore and scratchy. Symptoms: Sudden sore throat, pain when swallowing, fever, red and swollen tonsils. Severity: Moderate. Treatment: Antibiotics (prescribed by a doctor), rest, throat lozenges. Must consult a doctor to avoid complications.\"",
+    "extra": {
+      "type": "json_kb",
+      "section": "strep throat"
+    },
+    "created_at": "2026-04-06T10:21:52.661676",
+    "vector_row": 121
+  },
+  {
+    "doc_id": "87419355-92c7-4cd5-a1fc-d07fa1113ac9",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: Based on the provided image, here are my observations:\n\n1. **Key Visual Observations**: \nThe image shows a close-up of a woman's face, specifically her left cheek and jawline area. There are multiple red bumps and pimples on her cheek, which appear to be inflamed and pos",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:32:46.697031",
+    "vector_row": 122
+  },
+  {
+    "doc_id": "87419355-92c7-4cd5-a1fc-d07fa1113ac9",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "multiple red bumps and pimples on her cheek, which appear to be inflamed and possibly acne. The bumps vary in size and are clustered together.\n\n2. **Possible Interpretation**: \nThe presence of multiple red bumps and pimples on the cheek could indicate acne, a common skin condition characterized by inflammation and blockages in the pores. However, without more information or a confirmed medical history, it's uncertain to provide a definitive diagnosis.\n\n3. **Short Safety Note**: \nIt's essential t",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:32:46.697035",
+    "vector_row": 123
+  },
+  {
+    "doc_id": "87419355-92c7-4cd5-a1fc-d07fa1113ac9",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "to provide a definitive diagnosis.\n\n3. **Short Safety Note**: \nIt's essential to handle skin conditions like acne with care to prevent infection and scarring. If the condition persists or worsens, consulting a dermatologist for proper evaluation and treatment is recommended. The use of biotin tablets, as mentioned in the medical profile, may or may not be related to the skin condition, but it's always best to consult a healthcare professional for personalized advice.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:32:46.697036",
+    "vector_row": 124
+  },
+  {
+    "doc_id": "87419355-92c7-4cd5-a1fc-d07fa1113ac9",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "t a healthcare professional for personalized advice.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:32:46.697037",
+    "vector_row": 125
+  },
+  {
+    "doc_id": "e681b6d1-c12c-4924-a250-cfba2d19c00f",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: Age: 22\nGender: female\nBlood Group: b+ve\nAllergies: none\nExisting Diseases: mmm\nCurrent Medications: biotin tablets\nEmergency Contact: 7595962039\nAnalysis: Based on the provided image, here are my observations:\n\n1. **Key Visual Observations**: \nThe image shows a close-up of a woman's face, specifically her cheek and jawline area. There are multiple red, inflamed bumps and pimples on her cheek, which appear to be acne. The s",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:46:08.665177",
+    "vector_row": 126
+  },
+  {
+    "doc_id": "e681b6d1-c12c-4924-a250-cfba2d19c00f",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "ple red, inflamed bumps and pimples on her cheek, which appear to be acne. The skin around these areas is also slightly red and inflamed.\n\n2. **Possible Interpretation**: \nThe presence of multiple red, inflamed bumps and pimples on the cheek could indicate acne, possibly moderate to severe. However, without more information about the patient's medical history, skin care routine, and other factors, it's difficult to provide a more specific interpretation.\n\n3. **Short Safety Note**: \nThe image doe",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:46:08.665186",
+    "vector_row": 127
+  },
+  {
+    "doc_id": "e681b6d1-c12c-4924-a250-cfba2d19c00f",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "rovide a more specific interpretation.\n\n3. **Short Safety Note**: \nThe image does not appear to show any immediate safety concerns, but the presence of acne could be a sign of an underlying condition or trigger that needs to be addressed. It's essential for the individual to consult a healthcare professional or dermatologist for proper evaluation and treatment. The fact that she is taking biotin tablets may or may not be relevant, as biotin can sometimes be associated with skin issues, but this",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:46:08.665189",
+    "vector_row": 128
+  },
+  {
+    "doc_id": "e681b6d1-c12c-4924-a250-cfba2d19c00f",
+    "username": "amydey444@gmail.com",
+    "source": "image_analysis",
+    "text": "t be relevant, as biotin can sometimes be associated with skin issues, but this would require further investigation.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-06T10:46:08.665191",
+    "vector_row": 129
+  },
+  {
+    "doc_id": "fbc4c1ab-f4bb-4615-8e7f-66b73c3ef09e",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Should I consult a doctor?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue shirt, looking down at his scalp. His right hand is touching his hair, and there appears to be a visible flaky substance on his scalp, particularly along the center part of his hair.\n\n2. Possible interpretation: \nThe presence of a flaky substance on the scalp could be indicative of a scalp condition, commonly known as dandruff o",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-07T10:19:40.375456",
+    "vector_row": 130
+  },
+  {
+    "doc_id": "fbc4c1ab-f4bb-4615-8e7f-66b73c3ef09e",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "the scalp could be indicative of a scalp condition, commonly known as dandruff or seborrheic dermatitis. However, without further information or a medical profile, it is uncertain.\n\n3. Short safety note: \nIt is recommended that the individual consult a doctor or a dermatologist to determine the cause of the flaky substance on their scalp. Self-diagnosis or treatment may not be accurate and could potentially worsen the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-07T10:19:40.375468",
+    "vector_row": 131
+  },
+  {
+    "doc_id": "fbc4c1ab-f4bb-4615-8e7f-66b73c3ef09e",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "e condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-07T10:19:40.375469",
+    "vector_row": 132
+  },
+  {
+    "doc_id": "6c2c51d0-ffa7-4f52-a033-dd89e13ee16e",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: \nThe image shows a close-up of a person's cheek and jawline, with multiple red, inflamed bumps and pimples visible on the skin. The bumps vary in size and appear to be concentrated in one area.\n\n2. **Possible interpretation**: \nThe visual appearance suggests acne or a similar skin condition characterized by inflam",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:27:55.356479",
+    "vector_row": 133
+  },
+  {
+    "doc_id": "6c2c51d0-ffa7-4f52-a033-dd89e13ee16e",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ual appearance suggests acne or a similar skin condition characterized by inflammation and lesions. However, without more information or a medical history, it's uncertain to provide a specific diagnosis.\n\n3. **Short safety note**: \nIt's essential to consult a healthcare professional or dermatologist for proper evaluation and treatment. Self-diagnosis or treatment can lead to further skin irritation or complications.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:27:55.356515",
+    "vector_row": 134
+  },
+  {
+    "doc_id": "62f77663-5db1-4029-951c-cb167831955d",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: Based on the image provided, here are the observations:\n\n1. **Key Visual Observations**: \nThe image shows a close-up of a person's cheek and jawline area. There are multiple red, inflamed bumps and pimples visible on the skin, primarily concentrated on the cheek. The bumps vary in size and some appear to be pustular.\n\n2. **Possible Interpretation**:\nThe visual presentation suggests acne, possibly mode",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:27:57.967188",
+    "vector_row": 135
+  },
+  {
+    "doc_id": "62f77663-5db1-4029-951c-cb167831955d",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "*Possible Interpretation**:\nThe visual presentation suggests acne, possibly moderate in severity given the number of lesions and their distribution. However, without a comprehensive medical history and a thorough physical examination, it's not possible to provide a definitive diagnosis. Other conditions could present similarly, and a professional evaluation would be necessary to determine the exact cause.\n\n3. **Short Safety Note**:\nIf the condition is acne, treatments often include topical retin",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:27:57.967192",
+    "vector_row": 136
+  },
+  {
+    "doc_id": "62f77663-5db1-4029-951c-cb167831955d",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Safety Note**:\nIf the condition is acne, treatments often include topical retinoids, benzoyl peroxide, salicylic acid, or oral antibiotics in more severe cases. It's essential to consult a dermatologist for a proper diagnosis and treatment plan tailored to the individual's skin type and condition severity. Self-treatment or using unverified remedies can lead to skin irritation, scarring, or prolonged recovery.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:27:57.967194",
+    "vector_row": 137
+  },
+  {
+    "doc_id": "ca9275bd-fae5-488a-8630-0d3a1119d403",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue striped shirt. He is wearing glasses and has his hand on his head, with his fingers spread through his hair. There appears to be a visible flaky substance on his scalp, particularly along the center part of his hair.\n\n2. Possible interpretation: \nThe presence of a flaky substance on the scalp could be indicative of a skin con",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:28:45.198305",
+    "vector_row": 138
+  },
+  {
+    "doc_id": "ca9275bd-fae5-488a-8630-0d3a1119d403",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "The presence of a flaky substance on the scalp could be indicative of a skin condition such as dandruff or seborrheic dermatitis. However, without further information or a medical profile, it is uncertain.\n\n3. Short safety note: \nIt is essential to consult a healthcare professional for an accurate diagnosis and treatment plan. Self-treatment or using over-the-counter products without a proper diagnosis may not be effective or could potentially worsen the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:28:45.198313",
+    "vector_row": 139
+  },
+  {
+    "doc_id": "ca9275bd-fae5-488a-8630-0d3a1119d403",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ective or could potentially worsen the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-07T11:28:45.198314",
+    "vector_row": 140
+  },
+  {
+    "doc_id": "a294d69f-86cd-4954-8fbf-bb194b6151ce",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. **Key Visual Observations**: \n   - The image shows a man with dark hair and a blue striped shirt.\n   - He is wearing black-framed glasses.\n   - His right hand is on his head, and his fingers are spread through his hair.\n   - There is visible flaking or scaling on his scalp, particularly along the center part of his hair.\n\n2. **Possible Interpretation**:\n   - The visible flaking or scaling on the sc",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T06:43:59.724806",
+    "vector_row": 141
+  },
+  {
+    "doc_id": "a294d69f-86cd-4954-8fbf-bb194b6151ce",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": ".\n\n2. **Possible Interpretation**:\n   - The visible flaking or scaling on the scalp could be indicative of a scalp condition such as dandruff, seborrheic dermatitis, or psoriasis. \n   - The man's action of running his hand through his hair may suggest discomfort, itchiness, or concern about the condition of his scalp.\n\n3. **Short Safety Note**:\n   - It is essential to consult a healthcare professional or a dermatologist for an accurate diagnosis and appropriate treatment plan for any scalp condi",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T06:43:59.724811",
+    "vector_row": 142
+  },
+  {
+    "doc_id": "a294d69f-86cd-4954-8fbf-bb194b6151ce",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ist for an accurate diagnosis and appropriate treatment plan for any scalp condition. \n   - Self-diagnosis or treatment without professional advice can lead to ineffective treatment or potential worsening of the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T06:43:59.724812",
+    "vector_row": 143
+  },
+  {
+    "doc_id": "08062981-022f-413e-9656-65c0ebd8691c",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue striped shirt. He is wearing glasses and has his hand on his head, with his fingers spread through his hair. There appears to be white, flaky patches on his scalp.\n\n2. Possible interpretation: \nThe white, flaky patches on the scalp could be indicative of a skin condition, commonly known as dandruff or seborrheic dermatitis.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T06:55:02.629301",
+    "vector_row": 144
+  },
+  {
+    "doc_id": "08062981-022f-413e-9656-65c0ebd8691c",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "tive of a skin condition, commonly known as dandruff or seborrheic dermatitis.\n\n3. Short safety note: \nThis is not a substitute for a professional medical evaluation. It is recommended that the individual consult a healthcare professional or dermatologist for an accurate diagnosis and appropriate treatment. Self-diagnosis or treatment may lead to incorrect management of the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T06:55:02.629309",
+    "vector_row": 145
+  },
+  {
+    "doc_id": "8e751aba-7373-4260-9ab5-415b41aebd62",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Should I consult a doctor?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: The image shows a close-up of a person's cheek and jawline, with multiple red, inflamed bumps and pimples visible on the skin. The bumps vary in size and appear to be in different stages of inflammation.\n\n2. **Possible interpretation**: The visual symptoms suggest a skin condition, possibly acne, characterized by the",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-16T07:00:06.190484",
+    "vector_row": 146
+  },
+  {
+    "doc_id": "8e751aba-7373-4260-9ab5-415b41aebd62",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "he visual symptoms suggest a skin condition, possibly acne, characterized by the presence of inflamed lesions, including papules and pustules.\n\n3. **Short safety note**: It is recommended that the individual consult a healthcare professional or dermatologist for a proper evaluation and treatment plan, as skin conditions can sometimes be indicative of underlying health issues or may require medical intervention to prevent scarring or further complications.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-16T07:00:06.190505",
+    "vector_row": 147
+  },
+  {
+    "doc_id": "8e751aba-7373-4260-9ab5-415b41aebd62",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "vent scarring or further complications.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Should I consult a doctor?"
+    },
+    "created_at": "2026-04-16T07:00:06.190506",
+    "vector_row": 148
+  },
+  {
+    "doc_id": "2f16de24-100b-48bf-9f09-f1d69a552479",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: Based on the image provided, here are the observations:\n\n1. **Key visual observations**: \nThe image shows a close-up of a person's face, specifically the left side of their face, from the nose to the shoulder. The individual has multiple red, inflamed bumps on their cheek, which appear to be acne or pimples. The bumps vary in size and are clustered together.\n\n2. **Possible interpretation**:\nThe visual",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:05:01.245070",
+    "vector_row": 149
+  },
+  {
+    "doc_id": "2f16de24-100b-48bf-9f09-f1d69a552479",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "in size and are clustered together.\n\n2. **Possible interpretation**:\nThe visual observations suggest that the person may be experiencing acne, a common skin condition characterized by inflamed and red bumps on the skin, often caused by clogged pores, bacteria, or hormonal changes.\n\n3. **Short safety note**:\nIt is essential to consult a dermatologist or a healthcare professional for proper diagnosis and treatment. Self-diagnosis or treatment may lead to further skin irritation or scarring. A hea",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:05:01.245076",
+    "vector_row": 150
+  },
+  {
+    "doc_id": "2f16de24-100b-48bf-9f09-f1d69a552479",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "lf-diagnosis or treatment may lead to further skin irritation or scarring. A healthcare professional can assess the condition and recommend suitable treatments, such as topical creams, oral medications, or other therapies.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:05:01.245077",
+    "vector_row": 151
+  },
+  {
+    "doc_id": "0fab9d24-4225-4ce6-b5f4-fa5e723c7355",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What do you observe in this image?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue shirt with red stripes. He is wearing black-framed glasses and has his right hand on his head. There appears to be white or light-colored flakes on his scalp, particularly along the center part of his hair.\n\n2. Possible interpretation: \nThe flakes on the man's scalp could be indicative of a scalp condition such as dandru",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-16T07:09:54.028762",
+    "vector_row": 152
+  },
+  {
+    "doc_id": "0fab9d24-4225-4ce6-b5f4-fa5e723c7355",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "lakes on the man's scalp could be indicative of a scalp condition such as dandruff or seborrheic dermatitis. However, without further information or a more detailed examination, it is not possible to provide a definitive interpretation.\n\n3. Short safety note: \nIt is essential to consult a healthcare professional for an accurate diagnosis and treatment plan if you suspect a scalp condition. Self-diagnosis or treatment can lead to further irritation or complications.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-16T07:09:54.028768",
+    "vector_row": 153
+  },
+  {
+    "doc_id": "0fab9d24-4225-4ce6-b5f4-fa5e723c7355",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "can lead to further irritation or complications.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What do you observe in this image?"
+    },
+    "created_at": "2026-04-16T07:09:54.028769",
+    "vector_row": 154
+  },
+  {
+    "doc_id": "5c8acbf1-b346-4b42-b4a4-b454de512955",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. **Key Visual Observations**:  \n   - The image shows a man with dark hair and a blue-striped collared shirt.  \n   - He is wearing glasses with black frames.  \n   - His right hand is raised to his head, touching his hair.  \n   - There is visible flaking or scaling on his scalp, particularly along the center part of his hair.\n\n2. **Possible Interpretation**:  \n   - The presence of flaking or scaling o",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:21:20.913837",
+    "vector_row": 155
+  },
+  {
+    "doc_id": "5c8acbf1-b346-4b42-b4a4-b454de512955",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "ir.\n\n2. **Possible Interpretation**:  \n   - The presence of flaking or scaling on the scalp could indicate a condition such as dandruff, seborrheic dermatitis, or another scalp-related issue.  \n   - The man's action of touching his hair and scalp might suggest discomfort, itchiness, or concern about the condition.\n\n3. **Short Safety Note**:  \n   - If the condition persists or worsens, it is advisable to consult a healthcare professional or dermatologist for proper evaluation and treatment.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:21:20.913852",
+    "vector_row": 156
+  },
+  {
+    "doc_id": "5c8acbf1-b346-4b42-b4a4-b454de512955",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "lthcare professional or dermatologist for proper evaluation and treatment.  \n   - Over-the-counter treatments for common scalp conditions are available, but a professional diagnosis is recommended to ensure appropriate care.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:21:20.913853",
+    "vector_row": 157
+  },
+  {
+    "doc_id": "32f704d2-4f74-41cd-bf27-3afdc8b51af8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: **1. Key Visual Observations:**\n\nThe image shows a close-up of a person's face, specifically the side profile of their cheek and jawline. The skin on the cheek and jawline appears to have multiple small, red bumps and pimples. The bumps vary in size and some appear to be inflamed.\n\n**2. Possible Interpretation:**\n\nBased on the visual observations, it is possible that the person in the image has acne o",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:32:31.934059",
+    "vector_row": 158
+  },
+  {
+    "doc_id": "32f704d2-4f74-41cd-bf27-3afdc8b51af8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "the visual observations, it is possible that the person in the image has acne or a similar skin condition characterized by inflamed pimples and red bumps. However, without additional information or a medical history, it is not possible to provide a definitive diagnosis.\n\n**3. Short Safety Note:**\n\nIf you are experiencing similar skin issues, it is recommended to consult a dermatologist or healthcare professional for proper evaluation and treatment. They can provide personalized advice and guida",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:32:31.934067",
+    "vector_row": 159
+  },
+  {
+    "doc_id": "32f704d2-4f74-41cd-bf27-3afdc8b51af8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "proper evaluation and treatment. They can provide personalized advice and guidance on how to manage your skin condition safely and effectively. Self-diagnosis and treatment can lead to further complications or scarring.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:32:31.934068",
+    "vector_row": 160
+  },
+  {
+    "doc_id": "39d1520e-5c53-4cb7-b6ea-24aa7fffc4d8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations:\nThe image shows a man with dark hair and a blue striped shirt. He is wearing glasses and has his hand on his head. There appears to be white, flaky patches on his scalp.\n\n2. Possible interpretation:\nThe white, flaky patches on the scalp could be indicative of a skin condition such as dandruff or seborrheic dermatitis. However, without more information or a confirmed medical",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:38:40.273289",
+    "vector_row": 161
+  },
+  {
+    "doc_id": "39d1520e-5c53-4cb7-b6ea-24aa7fffc4d8",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "seborrheic dermatitis. However, without more information or a confirmed medical profile, it is uncertain.\n\n3. Short safety note:\nIf you are experiencing symptoms such as these, it is recommended to consult a healthcare professional for proper evaluation and treatment. Self-diagnosis or treatment may lead to incorrect management of the condition.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-16T07:38:40.273295",
+    "vector_row": 162
+  },
+  {
+    "doc_id": "8f69c28e-067c-412d-b0e1-494d99b241e7",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Is this rash serious?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a close-up of a person's cheek and jawline. There are multiple small, red bumps and pimples on the skin, primarily concentrated on the cheek. The bumps vary in size and appear to be inflamed.\n\n2. Possible interpretation: \nThe rash appears to be acne, characterized by inflamed red bumps and pimples. However, without a confirmed medical history or further details, it",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-24T03:48:17.599726",
+    "vector_row": 163
+  },
+  {
+    "doc_id": "8f69c28e-067c-412d-b0e1-494d99b241e7",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "and pimples. However, without a confirmed medical history or further details, it's uncertain if this is acne or another skin condition.\n\n3. Short safety note: \nIf the rash is acne or another skin condition, it may be irritated by certain products or treatments. To avoid further irritation or infection, avoid picking or squeezing the bumps, and consider consulting a dermatologist for proper evaluation and advice.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-24T03:48:17.599732",
+    "vector_row": 164
+  },
+  {
+    "doc_id": "7cdf8168-f182-416a-9a02-a1978d67c207",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: Is this rash serious?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: Based on the provided image, here are the observations:\n\n1. **Key visual observations**: The image shows a close-up of a person's cheek and jawline, with multiple small, red, inflamed bumps and pimples visible on the skin. The bumps appear to be concentrated on the cheek, with some smaller ones scattered on the jawline. The skin around the bumps is also red and inflamed.\n\n2. **Possible interpretation**: The v",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-24T03:53:19.233163",
+    "vector_row": 165
+  },
+  {
+    "doc_id": "7cdf8168-f182-416a-9a02-a1978d67c207",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "round the bumps is also red and inflamed.\n\n2. **Possible interpretation**: The visual observations suggest that the rash could be acne, which is a common skin condition characterized by inflamed bumps and pimples. However, without more information about the person's medical history, it is uncertain.\n\n3. **Short safety note**: If the rash is acne or another skin condition, it is recommended to consult a healthcare professional for proper evaluation and treatment. Attempting to self-treat or ignor",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-24T03:53:19.233172",
+    "vector_row": 166
+  },
+  {
+    "doc_id": "7cdf8168-f182-416a-9a02-a1978d67c207",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "fessional for proper evaluation and treatment. Attempting to self-treat or ignoring the condition could lead to further inflammation, scarring, or prolonged recovery time.",
+    "extra": {
+      "filename": "test2.jpg",
+      "symptoms": "",
+      "question": "Is this rash serious?"
+    },
+    "created_at": "2026-04-24T03:53:19.233173",
+    "vector_row": 167
+  },
+  {
+    "doc_id": "93ec7b07-e21b-45c7-ade9-951acff57188",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "Question: What treatment should I take?\nSymptoms: \nMedical Profile: No profile found.\nAnalysis: 1. Key visual observations: \nThe image shows a man with dark hair and a blue striped shirt. He is wearing black-framed glasses and has his hand on his head. There appears to be white, flaky patches on his scalp.\n\n2. Possible interpretation: \nThe white, flaky patches on the scalp could be indicative of a skin condition such as dandruff or seborrheic dermatitis. However, a definitive diagnosis cannot be",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-24T03:54:44.163433",
+    "vector_row": 168
+  },
+  {
+    "doc_id": "93ec7b07-e21b-45c7-ade9-951acff57188",
+    "username": "guest",
+    "source": "image_analysis",
+    "text": "as dandruff or seborrheic dermatitis. However, a definitive diagnosis cannot be made based on the image alone.\n\n3. Short safety note: \nIt is essential to consult a healthcare professional for an accurate diagnosis and treatment plan. Self-diagnosis or treatment may lead to incorrect management of the condition, potentially causing further irritation or complications.",
+    "extra": {
+      "filename": "test3.png",
+      "symptoms": "",
+      "question": "What treatment should I take?"
+    },
+    "created_at": "2026-04-24T03:54:44.163439",
+    "vector_row": 169
+  }
+]

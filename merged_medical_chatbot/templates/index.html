@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical ProBot</title>
+    <link rel="stylesheet" href="/static/style.css?v=99">
+</head>
+<body>
+
+<div class="center-box">
+    <div class="glass">
+        <h1>Medical ProBot 🩺</h1>
+        <p>Your smart AI medical image assistant</p>
+
+        <input type="text" id="username" placeholder="Enter username">
+        <input type="password" id="password" placeholder="Enter password">
+
+        <button type="button" class="auth-btn" onclick="loginUser()">Login</button>
+        <button type="button" class="auth-btn" onclick="signupUser()">Create Account</button>
+
+        <div class="auth-divider">or</div>
+
+        <button type="button" class="guest-btn" onclick="continueAsGuest()">Continue as Guest</button>
+
+        <p id="authMessage" style="margin-top: 12px; color: white;"></p>
+    </div>
+</div>
+
+<script src="/static/script.js?v=2"></script>
+</body>
+</html>
